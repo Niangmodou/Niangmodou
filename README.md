@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello there 👋
 
+My name is Modou Niang, and I'm currently a Software Developer. I'm a third year Computer Science Student at NYU, and I'm an incoming intern @ Facebook NY.
 <!--
 **Niangmodou/Niangmodou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
