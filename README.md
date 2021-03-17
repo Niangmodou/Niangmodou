@@ -1,9 +1,9 @@
-### Hello there! 👋
+### Hello there, I'm Mo! 👋
 
-My name is Modou Niang, and i'm a Software Developer. I'm a third year Computer Science Student at NYU, and I'm an incoming intern @ Facebook NY.
+Give me an interesting problem, and I'll give you an interesting solution⚡️
 <!--
 **Niangmodou/Niangmodou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+My name is Modou Niang, and i'm a Software Developer. I'm a third year Computer Science Student at NYU, and I'm an incoming intern @ Facebook NY.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
