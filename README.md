@@ -1,4 +1,4 @@
-### Hello there, I'm Mo! 👋
+### Hey there, I'm Mo! 👋
 
 Give me an interesting problem, and I'll give you an interesting solution⚡️
 <!--
