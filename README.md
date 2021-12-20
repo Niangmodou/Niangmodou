@@ -2,7 +2,7 @@
 
 Give me an interesting problem, and I'll give you an interesting solution⚡️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niangmodou)](https://github.com/niangmodou/github-readme-stats&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=niangmodou&theme=dark)](https://github.com/niangmodou/github-readme-stats)
 
 <!--
 **Niangmodou/Niangmodou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
